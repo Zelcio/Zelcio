@@ -1,2 +1,7 @@
-Hi, I'm Zelcio!
-I'm quite fond of the colour orange
+# Hi, I'm Zelcio!
+
+$\color{orange}{\text{I'm quite fond of the colour orange}}$
+
+## Check out my personal projects 💻 
+
+- 
